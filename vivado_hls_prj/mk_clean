@@ -1,0 +1,3 @@
+rm -rf vhls_prj
+rm *.log
+rm *.jou
